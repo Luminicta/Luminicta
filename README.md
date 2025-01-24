@@ -1,8 +1,9 @@
+
 ## Hi there 👋
 
 About me:
 - Occupation: 2nd year student in software engineering
-- Familiar languages: C#, HTML, css, SQL & Python
+- Familiar languages: ![image_2025-01-24_155935735](https://github.com/user-attachments/assets/6e72f4ad-354f-4485-b033-82723f0cf75f) C#, HTML, css, SQL & Python
 - Interests: Testing, back-end development & working in a good team
 - Some general information:
     - Lumi

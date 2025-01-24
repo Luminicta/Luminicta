@@ -4,11 +4,11 @@
 About me:
 - Occupation: 2nd year student in software engineering
 - Familiar languages: 
-    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" width="20" alt="C# Icon" style="filter: invert(1);"/> C#
-    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="20" alt="HTML Icon" style="filter: invert(1);"/> HTML
-    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="20" alt="CSS Icon" style="filter: invert(1);"/> CSS
-    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftsqlserver.svg" width="20" alt="SQL Icon" style="filter: invert(1);"/> SQL
-    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="20" alt="Python Icon" style="filter: invert(1);"/> Python
+    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" width="20" alt="C# Icon" style="filter: invert(1);"/> **C#**
+    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="20" alt="HTML Icon" style="filter: invert(1);"/> **HTML**
+    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="20" alt="CSS Icon" style="filter: invert(1);"/> **CSS**
+    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftsqlserver.svg" width="20" alt="SQL Icon" style="filter: invert(1);"/> **SQL**
+    - <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="20" alt="Python Icon" style="filter: invert(1);"/> **Python**
 
 - Interests: Testing, back-end development & working in a good team
 - Some general information:

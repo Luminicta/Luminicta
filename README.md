@@ -1,7 +1,7 @@
 
 ## Hello people! 👋
 
-Hi, I'm Lumi, a 17-year-old Finnish transgirl studying software engineering, currently at the 2. year!
+Hi, I'm Lumi, a 17-year-old student from Finland, studying software engineering currently for the 2. year 
 
 About me:
 
@@ -23,18 +23,4 @@ About me:
 - See some projects at [my page](https://luminicta.github.io)
 
 - Additional notes:
-  - Still trying to learn things to the best of my ability, so mistakes are a common occurence, however, I try my best to always learn from them to improve my coding skills!
-<!--
-**Luminicta/Luminicta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Still trying to learn things to the best of my ability, so mistakes are a common occurence. However, I do try my best to always learn from them to improve my coding skills so just give me a moment with them and I'll catch right up!

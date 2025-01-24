@@ -3,7 +3,13 @@
 
 About me:
 - Occupation: 2nd year student in software engineering
-- Familiar languages: ![image_2025-01-24_155935735](https://github.com/user-attachments/assets/6e72f4ad-354f-4485-b033-82723f0cf75f) C#, HTML, css, SQL & Python
+- Familiar languages: 
+    - ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+    - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+    - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+    - ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
+    - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+
 - Interests: Testing, back-end development & working in a good team
 - Some general information:
     - Lumi

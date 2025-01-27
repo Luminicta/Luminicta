@@ -1,5 +1,5 @@
 
-## Hello people! 👋
+## Hey, and welcome! 👋
 
 Hi, I'm Lumi, a 17-year-old student from Finland, studying software engineering currently for the 2. year 
 

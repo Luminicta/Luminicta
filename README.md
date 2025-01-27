@@ -14,7 +14,7 @@ About me:
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" alt="SQL Icon"/> **SQL**
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" alt="Python Icon"/> **Python**
 
-- Interests in coding: Testing & back-end development 
+- Interests in coding: Testing & back-end development, both software and web development
   
 - Contact information:
   - E-mail: gr289382@gradia.fi

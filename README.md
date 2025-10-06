@@ -5,7 +5,7 @@ Hi, I'm Lumi, an 18-year-old student from Finland, studying software engineering
 
 About me:
 
-- Occupation: 2nd year student in software engineering
+- Occupation: 3rd year student in software engineering
   
 - Familiar languages: 
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> **C#**

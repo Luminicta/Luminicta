@@ -1,7 +1,7 @@
 
 ## Hey, and welcome! 👋
 
-Hi, I'm Lumi, an 18-year-old student from Finland, studying software engineering currently for the 2. year 
+Hi, I'm Lumi, a 19-year-old student from Finland, studying software engineering currently for the 3rd year 
 
 About me:
 
@@ -17,7 +17,7 @@ About me:
 - Interests in coding: Testing & back-end development, both software and web development
   
 - Contact information:
-  - E-mail: gr289382@gradia.fi
+  - E-mail: lumi.jussila07@gmail.com
   - Discord: luminicta
       
 - See some projects at [my page](https://luminicta.github.io)
